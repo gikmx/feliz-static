@@ -1,3 +1,11 @@
+# feliz-static
+
+A plugins for feliz.js that enables static file serving.
+
+## License
+
+---
+
 The MIT License (MIT)
 
 Copyright (c) 2016 GIK

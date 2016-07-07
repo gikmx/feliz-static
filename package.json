@@ -1,0 +1,28 @@
+{
+  "name": "feliz-static",
+  "version": "0.0.1",
+  "description": "A plugins for feliz.js that enables static file serving.",
+  "main": "lib/index.js",
+  "author": "Héctor Menéndez <etor@gik.mx>",
+  "license": "MIT",
+  "analyze": true,
+  "keywords": [
+    "feliz",
+    "plugin",
+    "static",
+    "inert"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/gikmx/feliz-static"
+  },
+  "bugs": {
+    "url": "https://github.com/gikmx/feliz-static/issues"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "inert": "^4.0.1"
+  }
+}
