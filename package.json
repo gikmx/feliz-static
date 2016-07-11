@@ -1,6 +1,6 @@
 {
   "name": "feliz-static",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "A plugins for feliz.js that enables static file serving.",
   "main": "lib/index.js",
   "author": "Héctor Menéndez <etor@gik.mx>",
